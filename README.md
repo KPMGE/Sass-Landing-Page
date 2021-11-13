@@ -18,13 +18,13 @@ Moreover, Sass is compiled to regular css, so that, our code will be 100% compat
 ### The final result
 After some lines of Sass and html:
 
-[main-page]()
+![main-page](https://github.com/KPMGE/Sass-Landing-Page/blob/main/images/main-page.png?raw=true)
 
 ### Dark text feature
 With Sass, we have features from programming languages, just like loops, variables, conditionals and all of the good stuff.
 That is extremely helpful, because we can encapsulate our logic in a more concise way. A simple use case of it is in our text-based on background feature. Basically, depending on the brightness of the page all of our texts get the right color. As we can see in the image below, as soon as we set a lighter color for the background, our text gets black automatically. 
 
-[dark]()
+![dark](https://github.com/KPMGE/Sass-Landing-Page/blob/main/images/dark.png?raw=true)
 
 ### Running the project
 if you want to see that project in your machine, it is very easy. You can just clone this repository and then open the `index.html` file in some browser. 
