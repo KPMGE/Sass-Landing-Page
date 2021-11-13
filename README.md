@@ -3,7 +3,7 @@
 ### Goal 
 In this project, i have used the most common technologies for web development. I mean,
 html and css. But along with that technologies, i have decided to use Sass.
-This project was inspired by: .
+This project was inspired by: [Sass Crash course](https://youtu.be/nu5mdN2JIwM) .
 
 ### What is Sass?
 Sass extends for "syntactically awesome stylesheets". Basically, it is a superset for css.
