@@ -1,0 +1,12 @@
+{
+  "name": "saas-proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "yarn run sass --watch ./sass/style.scss ./css/style.css"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.43.4"
+  }
+}
